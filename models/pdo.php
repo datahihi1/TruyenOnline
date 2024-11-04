@@ -12,10 +12,6 @@ function pdo_get_connection() {
     return $conn;
 }
 
-function __construct() {
-    
-}
-
 // Hàm thực thi câu lệnh SQL (dùng cho INSERT, UPDATE, DELETE)
 function pdo_execute($sql, ...$args) {
     $conn = pdo_get_connection(); 
