@@ -26,7 +26,7 @@
                 break;
         }
     } else {
-        include 'views/home.php';
+        include 'views/comic_home.php';
     }
     # kết thúc nội dung trang
 

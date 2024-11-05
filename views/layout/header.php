@@ -27,9 +27,6 @@
                                 <a class="nav-link" href="http://localhost/TruyenOnline/">Home<span class="sr-only">(current)</span></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">New Comic</a>
-                            </li>
-                            <li class="nav-item">
                                 <a class="nav-link" href="#">Popular</a>
                             </li>
                             <li class="nav-item dropdown">
@@ -42,6 +39,9 @@
                                     <a class="dropdown-item" href="#">Romance</a>
                                     <a class="dropdown-item" href="#">Harem</a>
                                 </div>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">History</a>
                             </li>
                         </ul>
                     </div>
